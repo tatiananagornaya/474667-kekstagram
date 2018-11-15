@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Tanya Nagornaya](https://up.htmlacademy.ru/javascript/16/user/474667).
-* Наставник: `Неизвестно`.
+* Наставник: `нет наставника`.
 
 ---
 
